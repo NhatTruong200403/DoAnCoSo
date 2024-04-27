@@ -8638,11 +8638,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\DoAnCNTT.csproj",
+      "projectUniqueName": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\DoAnCNTT.csproj",
       "projectName": "DoAnCNTT",
-      "projectPath": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\DoAnCNTT.csproj",
+      "projectPath": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\DoAnCNTT.csproj",
       "packagesPath": "C:\\Users\\VAN\\.nuget\\packages\\",
-      "outputPath": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\obj\\",
+      "outputPath": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VAN\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MEgqJ5oenEKUnnNTDKV1IG12a5uU8l2aFi2pBm4A7r/iny0b7rHZA5bEVxcK/cnN/gWwC0PlHhLBEQeKNM9CoA==",
+  "dgSpecHash": "hSShG8FO9HyjhvFYVRCCUvI80NK3VO/4M+cjFuB/P5Oc/ZK7tvCFPIT+N87z6mTcW3FEW8wZrZC5d/4uvwew+g==",
   "success": true,
-  "projectFilePath": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\DoAnCNTT.csproj",
+  "projectFilePath": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\DoAnCNTT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VAN\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\VAN\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

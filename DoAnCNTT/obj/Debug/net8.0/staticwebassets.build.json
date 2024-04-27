@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NXVglwd6QGpGP4Ct7rTHzAj2lcUXwwNRm9PcICdbpDU=",
+  "Hash": "jr4kFwyTxSafok7ml8G4mOw6Xhn68R1gdiffu5CbPPs=",
   "Source": "DoAnCNTT",
   "BasePath": "_content/DoAnCNTT",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "DoAnCNTT\\wwwroot",
       "Source": "DoAnCNTT",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "Pattern": "**"
     }
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "C:\\Users\\VAN\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DoAnCNTT.styles.css",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DoAnCNTT.styles.css",
       "SourceId": "DoAnCNTT",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "DoAnCNTT.styles.css",
       "AssetKind": "All",
@@ -1173,13 +1173,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DoAnCNTT.styles.css"
+      "OriginalItemSpec": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DoAnCNTT.styles.css"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DoAnCNTT.bundle.scp.css",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DoAnCNTT.bundle.scp.css",
       "SourceId": "DoAnCNTT",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "DoAnCNTT.bundle.scp.css",
       "AssetKind": "All",
@@ -1192,13 +1192,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DoAnCNTT.bundle.scp.css"
+      "OriginalItemSpec": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DoAnCNTT.bundle.scp.css"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\fonts\\index.html",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\fonts\\index.html",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "css/fonts/index.html",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\index.html"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\fonts\\remixicon.css",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\fonts\\remixicon.css",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "css/fonts/remixicon.css",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\remixicon.css"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\fonts\\remixicon.eot",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\fonts\\remixicon.eot",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "css/fonts/remixicon.eot",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\remixicon.eot"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\fonts\\remixicon.glyph.json",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\fonts\\remixicon.glyph.json",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "css/fonts/remixicon.glyph.json",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\remixicon.glyph.json"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\fonts\\remixicon.less",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\fonts\\remixicon.less",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "css/fonts/remixicon.less",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\remixicon.less"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\fonts\\remixicon.module.less",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\fonts\\remixicon.module.less",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "css/fonts/remixicon.module.less",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\remixicon.module.less"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\fonts\\remixicon.scss",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\fonts\\remixicon.scss",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "css/fonts/remixicon.scss",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\remixicon.scss"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\fonts\\remixicon.styl",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\fonts\\remixicon.styl",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "css/fonts/remixicon.styl",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\remixicon.styl"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\fonts\\remixicon.svg",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\fonts\\remixicon.svg",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "css/fonts/remixicon.svg",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\remixicon.svg"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\fonts\\remixicon.symbol.svg",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\fonts\\remixicon.symbol.svg",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "css/fonts/remixicon.symbol.svg",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\remixicon.symbol.svg"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\fonts\\remixicon.ttf",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\fonts\\remixicon.ttf",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "css/fonts/remixicon.ttf",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\remixicon.ttf"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\fonts\\remixicon.woff",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\fonts\\remixicon.woff",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "css/fonts/remixicon.woff",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\remixicon.woff"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\fonts\\remixicon.woff2",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\fonts\\remixicon.woff2",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "css/fonts/remixicon.woff2",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\remixicon.woff2"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\fonts\\symbol.html",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\fonts\\symbol.html",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "css/fonts/symbol.html",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\symbol.html"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\fonts\\unicode.html",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\fonts\\unicode.html",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "css/fonts/unicode.html",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\unicode.html"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\site.css",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\css\\site.css",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\favicon.ico",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\favicon.ico",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\img\\logo\\abc_preview_rev_1.png",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\img\\logo\\abc_preview_rev_1.png",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "img/logo/abc_preview_rev_1.png",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo\\abc_preview_rev_1.png"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\img\\logo\\bcd_preview_rev_1.png",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\img\\logo\\bcd_preview_rev_1.png",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "img/logo/bcd_preview_rev_1.png",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo\\bcd_preview_rev_1.png"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\img\\logo\\logo.jpg",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\img\\logo\\logo.jpg",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "img/logo/logo.jpg",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo\\logo.jpg"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\img\\logo\\zalo.png",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\img\\logo\\zalo.png",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "img/logo/zalo.png",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo\\zalo.png"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\img\\T1.png",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\img\\T1.png",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "img/T1.png",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\img\\T1.png"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\js\\site.js",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\js\\site.js",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2677,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2696,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "DoAnCNTT",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
       "BasePath": "_content/DoAnCNTT",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

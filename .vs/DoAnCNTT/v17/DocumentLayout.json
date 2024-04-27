@@ -1,37 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\",
+  "WorkspaceRootPath": "E:\\DoAnCNTT\\DoAnCoSo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7CA0763F-8AA1-43A0-A69F-8BE34B8E6544}|DoAnCNTT\\DoAnCNTT.csproj|e:\\doancntt\\doancntt\\doancoso\\doancntt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7CA0763F-8AA1-43A0-A69F-8BE34B8E6544}|DoAnCNTT\\DoAnCNTT.csproj|e:\\doancntt\\doancoso\\doancntt\\models\\amenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA0763F-8AA1-43A0-A69F-8BE34B8E6544}|DoAnCNTT\\DoAnCNTT.csproj|solutionrelative:doancntt\\models\\amenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA0763F-8AA1-43A0-A69F-8BE34B8E6544}|DoAnCNTT\\DoAnCNTT.csproj|e:\\doancntt\\doancoso\\doancntt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7CA0763F-8AA1-43A0-A69F-8BE34B8E6544}|DoAnCNTT\\DoAnCNTT.csproj|solutionrelative:doancntt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CA0763F-8AA1-43A0-A69F-8BE34B8E6544}|DoAnCNTT\\DoAnCNTT.csproj|e:\\doancntt\\doancntt\\doancoso\\doancntt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7CA0763F-8AA1-43A0-A69F-8BE34B8E6544}|DoAnCNTT\\DoAnCNTT.csproj|e:\\doancntt\\doancoso\\doancntt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CA0763F-8AA1-43A0-A69F-8BE34B8E6544}|DoAnCNTT\\DoAnCNTT.csproj|solutionrelative:doancntt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CA0763F-8AA1-43A0-A69F-8BE34B8E6544}|DoAnCNTT\\DoAnCNTT.csproj|e:\\doancntt\\doancntt\\doancoso\\doancntt\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7CA0763F-8AA1-43A0-A69F-8BE34B8E6544}|DoAnCNTT\\DoAnCNTT.csproj|e:\\doancntt\\doancoso\\doancntt\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CA0763F-8AA1-43A0-A69F-8BE34B8E6544}|DoAnCNTT\\DoAnCNTT.csproj|solutionrelative:doancntt\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CA0763F-8AA1-43A0-A69F-8BE34B8E6544}|DoAnCNTT\\DoAnCNTT.csproj|e:\\doancntt\\doancntt\\doancoso\\doancntt\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7CA0763F-8AA1-43A0-A69F-8BE34B8E6544}|DoAnCNTT\\DoAnCNTT.csproj|e:\\doancntt\\doancoso\\doancntt\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7CA0763F-8AA1-43A0-A69F-8BE34B8E6544}|DoAnCNTT\\DoAnCNTT.csproj|solutionrelative:doancntt\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CA0763F-8AA1-43A0-A69F-8BE34B8E6544}|DoAnCNTT\\DoAnCNTT.csproj|e:\\doancntt\\doancntt\\doancoso\\doancntt\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{7CA0763F-8AA1-43A0-A69F-8BE34B8E6544}|DoAnCNTT\\DoAnCNTT.csproj|e:\\doancntt\\doancoso\\doancntt\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{7CA0763F-8AA1-43A0-A69F-8BE34B8E6544}|DoAnCNTT\\DoAnCNTT.csproj|solutionrelative:doancntt\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CA0763F-8AA1-43A0-A69F-8BE34B8E6544}|DoAnCNTT\\DoAnCNTT.csproj|e:\\doancntt\\doancntt\\doancoso\\doancntt\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7CA0763F-8AA1-43A0-A69F-8BE34B8E6544}|DoAnCNTT\\DoAnCNTT.csproj|e:\\doancntt\\doancoso\\doancntt\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7CA0763F-8AA1-43A0-A69F-8BE34B8E6544}|DoAnCNTT\\DoAnCNTT.csproj|solutionrelative:doancntt\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CA0763F-8AA1-43A0-A69F-8BE34B8E6544}|DoAnCNTT\\DoAnCNTT.csproj|e:\\doancntt\\doancntt\\doancoso\\doancntt\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7CA0763F-8AA1-43A0-A69F-8BE34B8E6544}|DoAnCNTT\\DoAnCNTT.csproj|e:\\doancntt\\doancoso\\doancntt\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CA0763F-8AA1-43A0-A69F-8BE34B8E6544}|DoAnCNTT\\DoAnCNTT.csproj|solutionrelative:doancntt\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CA0763F-8AA1-43A0-A69F-8BE34B8E6544}|DoAnCNTT\\DoAnCNTT.csproj|e:\\doancntt\\doancntt\\doancoso\\doancntt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7CA0763F-8AA1-43A0-A69F-8BE34B8E6544}|DoAnCNTT\\DoAnCNTT.csproj|e:\\doancntt\\doancoso\\doancntt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CA0763F-8AA1-43A0-A69F-8BE34B8E6544}|DoAnCNTT\\DoAnCNTT.csproj|solutionrelative:doancntt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,107 +74,112 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "DoAnCNTT\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeToolTip": "DoAnCNTT\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Amenity.cs",
+              "DocumentMoniker": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\Models\\Amenity.cs",
+              "RelativeDocumentMoniker": "DoAnCNTT\\Models\\Amenity.cs",
+              "ToolTip": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\Models\\Amenity.cs",
+              "RelativeToolTip": "DoAnCNTT\\Models\\Amenity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T13:05:04.774Z",
+              "WhenOpened": "2024-04-27T08:50:25.94Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "DoAnCNTT\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "DoAnCNTT\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T13:05:02.398Z",
-              "EditorCaption": ""
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "DoAnCNTT\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "DoAnCNTT\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:05:04.774Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "DoAnCNTT\\ScaffoldingReadMe.txt",
-              "ToolTip": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "DoAnCNTT\\ScaffoldingReadMe.txt",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "DoAnCNTT\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "DoAnCNTT\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-04-25T13:04:53.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "DoAnCNTT\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "DoAnCNTT\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAmwAsAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T12:47:34.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T13:05:02.398Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "DoAnCNTT\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "DoAnCNTT\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T18:19:10.812Z",
-              "EditorCaption": ""
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "DoAnCNTT\\ScaffoldingReadMe.txt",
+              "ToolTip": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "DoAnCNTT\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-25T13:04:53.916Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\Program.cs",
-              "RelativeDocumentMoniker": "DoAnCNTT\\Program.cs",
-              "ToolTip": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\Program.cs",
-              "RelativeToolTip": "DoAnCNTT\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T18:06:37.243Z",
-              "EditorCaption": ""
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DoAnCNTT\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DoAnCNTT\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T12:47:34.226Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "DoAnCNTT\\Models\\ApplicationUser.cs",
-              "ToolTip": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "DoAnCNTT\\Models\\ApplicationUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "DoAnCNTT\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "DoAnCNTT\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T18:19:10.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\Program.cs",
+              "RelativeDocumentMoniker": "DoAnCNTT\\Program.cs",
+              "ToolTip": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\Program.cs",
+              "RelativeToolTip": "DoAnCNTT\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T17:46:45.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T18:06:37.243Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "DoAnCNTT\\Models\\ApplicationUser.cs",
+              "ToolTip": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "DoAnCNTT\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:46:45.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DoAnCNTT\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\DoAnCNTT\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\Controllers\\HomeController.cs",
               "RelativeToolTip": "DoAnCNTT\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T17:25:52.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T17:25:52.73Z"
             }
           ]
         }
