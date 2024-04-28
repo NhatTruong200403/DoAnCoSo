@@ -14,28 +14,28 @@
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.Content)
+                Nội dung
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.DiscountValue)
+                Giá trị khuyến mãi
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.ExpiredDate)
+                Ngày kết thúc
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.CreatedById)
+                Mã người tạo
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.CreatedOn)
+                Ngày tạo
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.ModifiedById)
+                Mã người cập nhật 
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.ModifiedOn)
+                Ngày cập nhật
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.IsDeleted)
+                Ẩn
             </th>
             <th></th>
         </tr>
@@ -68,9 +68,8 @@
                 @Html.DisplayFor(modelItem => item.IsDeleted)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                <a asp-action="Edit" asp-route-id="@item.Id">Sửa</a> 
+                <a asp-action="Details" asp-route-id="@item.Id">Chi tiết</a> 
             </td>
         </tr>
 }

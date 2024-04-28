@@ -146,41 +146,7 @@ namespace DoAnCNTT.Areas.Admin.Controllers
             return View(promotion);
         }
 
-        // GET: Admin/Promotions/Delete/5
-/*        public async Task<IActionResult> Delete(int? id)
-        {
-            if (id == null)
-            {
-                return NotFound();
-            }
 
-            var promotion = await _context.Promotions
-                .FirstOrDefaultAsync(m => m.Id == id);
-            if (promotion == null)
-            {
-                return NotFound();
-            }
-
-            return View(promotion);
-        }
-
-        // POST: Admin/Promotions/Delete/5
-        [HttpPost, ActionName("Delete")]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(int id)
-        {
-            var user = await _userManager.GetUserAsync(User);
-            var promotion = await _context.Promotions.FindAsync(id);
-            if (promotion != null)
-            {
-                promotion.IsDeleted = true;
-                _context.Promotions.Update(promotion);
-                EditHelper<Promotion>.SetModifiedIfNecessary(promotion, true, user!.Id);
-            }
-
-            await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
-        }*/
 
         private bool PromotionExists(int id)
         {
