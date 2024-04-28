@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jr4kFwyTxSafok7ml8G4mOw6Xhn68R1gdiffu5CbPPs=",
+  "Hash": "SzXVb5zD0/AFTWFI8RkEmiGDb/Ofe4IrCCciapWv2q8=",
   "Source": "DoAnCNTT",
   "BasePath": "_content/DoAnCNTT",
   "Mode": "Default",
@@ -1516,6 +1516,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\img\\ImageUser\\user.png",
+      "SourceId": "DoAnCNTT",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\",
+      "BasePath": "_content/DoAnCNTT",
+      "RelativePath": "img/ImageUser/user.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\ImageUser\\user.png"
     },
     {
       "Identity": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\img\\logo\\abc_preview_rev_1.png",

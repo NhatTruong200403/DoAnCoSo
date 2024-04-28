@@ -48,12 +48,19 @@ else
 {
     app.UseExceptionHandler("/Home/Error");
 }
+
+
+
 app.UseStaticFiles();
 app.UseRouting();
 app.UseAuthentication();
 app.UseAuthorization();
 app.UseSession(); // Sử dụng session trước khi sử dụng MVC hoặc Razor Pages
-
+// Định tuyến cho Area Admin
+app.MapAreaControllerRoute(
+   name: "admin",
+   areaName: "Admin",
+   pattern: "Admin/{controller=Home}/{action=Index}/{id?}");
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
