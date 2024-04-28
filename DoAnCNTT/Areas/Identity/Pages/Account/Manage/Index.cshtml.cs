@@ -6,10 +6,12 @@ using System;
 using System.ComponentModel.DataAnnotations;
 using System.Text.Encodings.Web;
 using System.Threading.Tasks;
+using DoAnCNTT.Data;
 using DoAnCNTT.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.EntityFrameworkCore;
 
 namespace DoAnCNTT.Areas.Identity.Pages.Account.Manage
 {
@@ -17,14 +19,18 @@ namespace DoAnCNTT.Areas.Identity.Pages.Account.Manage
     {
         private readonly UserManager<ApplicationUser> _userManager;
         private readonly SignInManager<ApplicationUser> _signInManager;
+        private readonly ApplicationDbContext _context;
 
         public IndexModel(
             UserManager<ApplicationUser> userManager,
-            SignInManager<ApplicationUser> signInManager)
+            SignInManager<ApplicationUser> signInManager,
+            ApplicationDbContext context)
         {
             _userManager = userManager;
             _signInManager = signInManager;
+            _context = context;
         }
+
 
         /// <summary>
         ///     This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used
@@ -59,18 +65,37 @@ namespace DoAnCNTT.Areas.Identity.Pages.Account.Manage
             [Phone]
             [Display(Name = "Phone number")]
             public string PhoneNumber { get; set; }
+            [Display(Name = "FullName")]
+            public string FullName { get; set; }
+            [Display(Name = "Images")]
+            public string Images { get; set; }
         }
+        private async Task<string> SaveImage(IFormFile image)
+        {
 
+            var uploadPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "images", "ImageUser");
+            if (!Directory.Exists(uploadPath))
+            {
+                Directory.CreateDirectory(uploadPath);
+            }
+            var savePath = Path.Combine(uploadPath, image.FileName);
+            using (var fileStream = new FileStream(savePath, FileMode.Create))
+            {
+                await image.CopyToAsync(fileStream);
+            }
+            return "/images/ImageUser/" + image.FileName;
+        }
         private async Task LoadAsync(ApplicationUser user)
         {
             var userName = await _userManager.GetUserNameAsync(user);
             var phoneNumber = await _userManager.GetPhoneNumberAsync(user);
-
+            var name = user.Name;
             Username = userName;
 
             Input = new InputModel
             {
-                PhoneNumber = phoneNumber
+                FullName = name,
+                PhoneNumber = phoneNumber,
             };
         }
 
@@ -100,6 +125,34 @@ namespace DoAnCNTT.Areas.Identity.Pages.Account.Manage
                 return Page();
             }
 
+            var currentUser = await _context.Users.FindAsync(user.Id);
+            if (currentUser == null)
+            {
+                return NotFound($"Unable to load user with ID '{user.Id}'.");
+            }
+            if (currentUser.Name != null)
+            {
+                currentUser.Name = Input.FullName;
+            }
+            else
+            {
+                currentUser.Name = currentUser.Name;
+            }
+            if (Request.Form.Files.Count != 0)
+            {
+                var newImagePath = await SaveImage(Request.Form.Files[0]);
+                if (currentUser.Image != newImagePath)
+                {
+                    currentUser.Image = newImagePath;
+                    await _context.SaveChangesAsync();
+                }
+            }
+            else
+            {
+                currentUser.Image = user.Image;
+                await _context.SaveChangesAsync();
+            }
+
             var phoneNumber = await _userManager.GetPhoneNumberAsync(user);
             if (Input.PhoneNumber != phoneNumber)
             {
@@ -115,5 +168,7 @@ namespace DoAnCNTT.Areas.Identity.Pages.Account.Manage
             StatusMessage = "Your profile has been updated";
             return RedirectToPage();
         }
+
     }
 }
+

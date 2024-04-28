@@ -73,6 +73,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\img\\ImageUser\\user.png",
+      "PackagePath": "staticwebassets\\img\\ImageUser\\user.png"
+    },
+    {
       "Id": "E:\\DoAnCNTT\\DoAnCoSo\\DoAnCNTT\\wwwroot\\img\\T1.png",
       "PackagePath": "staticwebassets\\img\\T1.png"
     },
