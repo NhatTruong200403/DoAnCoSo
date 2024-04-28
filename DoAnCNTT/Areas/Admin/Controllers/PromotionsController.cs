@@ -93,7 +93,8 @@ namespace DoAnCNTT.Areas.Admin.Controllers
             ViewData["CreateDate"] = promotion.CreatedOn;
             return View(promotion);
         }
-
+        
+        //Hàm trả về giá trị khyến mãi cũ đang edit
         public async Task<Promotion?> GetExistingPromotion(int id) 
             => await _context.Promotions.AsNoTracking().FirstOrDefaultAsync(p => p.Id == id);
 
@@ -108,16 +109,19 @@ namespace DoAnCNTT.Areas.Admin.Controllers
             {
                 return NotFound();
             }
-            var user = await _userManager.GetUserAsync(User);
-            var existingPromotion = await GetExistingPromotion(id);
+            var user = await _userManager.GetUserAsync(User); //Lấy thông tin user
+            var existingPromotion = await GetExistingPromotion(id); // Lấy giá trị cũ của khuyến mãi
             promotion.CreatedOn = existingPromotion!.CreatedOn;
             promotion.CreatedById = existingPromotion.CreatedById;
-            if(promotion.ExpiredDate == null)
+            promotion.ModifiedById = existingPromotion!.ModifiedById;
+            promotion.ModifiedOn = existingPromotion.ModifiedOn;
+            if (promotion.ExpiredDate == null) 
             {
                 promotion.ExpiredDate = existingPromotion.ExpiredDate;
             }    
-            bool hasChanges = EditHelper<Promotion>.HasChanges(promotion, existingPromotion);
-            EditHelper<Promotion>.SetModifiedIfNecessary(promotion, hasChanges, user!.Id);
+            //Kiểm tra dữ liệu có thay đổi thì cập nhật ModifiedById, ModifiedOn
+            bool hasChanges = EditHelper<Promotion>.HasChanges(promotion, existingPromotion); //Hàm kiểm tra
+            EditHelper<Promotion>.SetModifiedIfNecessary(promotion, hasChanges, existingPromotion, user!.Id); //Hàm cập nhật nếu thay đổi
             
             if (ModelState.IsValid)
             {
@@ -143,7 +147,7 @@ namespace DoAnCNTT.Areas.Admin.Controllers
         }
 
         // GET: Admin/Promotions/Delete/5
-        public async Task<IActionResult> Delete(int? id)
+/*        public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
             {
@@ -165,16 +169,18 @@ namespace DoAnCNTT.Areas.Admin.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
+            var user = await _userManager.GetUserAsync(User);
             var promotion = await _context.Promotions.FindAsync(id);
             if (promotion != null)
             {
                 promotion.IsDeleted = true;
                 _context.Promotions.Update(promotion);
+                EditHelper<Promotion>.SetModifiedIfNecessary(promotion, true, user!.Id);
             }
 
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
-        }
+        }*/
 
         private bool PromotionExists(int id)
         {
